@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    >
+    <View
+        android:id="@+id/view_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/color_ed"/>
+    <TextView
+        android:id="@+id/text_section"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/section_padding"
+        android:paddingStart="@dimen/section_text_padding_left"
+        android:paddingTop="@dimen/section_padding"
+        android:text="5555"
+        android:textColor="@color/color2"
+        android:textSize="@dimen/section_text_size" />
+
+    <ToggleButton
+        android:id="@+id/toggle_button_section"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.88"
+        android:background="@drawable/selector_section_toggle"
+        android:contentDescription="@string/image_button_content_description"
+        android:padding="@dimen/section_padding"
+        android:textOff=""
+        android:textOn=""
+        android:visibility="gone" />
+
+
+</RelativeLayout>

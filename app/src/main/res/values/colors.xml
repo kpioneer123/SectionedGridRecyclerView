@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+
+    <color name="colorPrimaryDark">#ccc9121e</color>
+
+
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryRed">#e21020</color>
+    <color name="colorPrimaryPressedRed">#cb0e1d</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="color2">#222222</color>
+    <color name="color3">#333333</color>
+    <color name="color6">#666666</color>
+    <color name="color6_pressed">#4d666666</color>
+    <color name="color9">#999999</color>
+    <color name="color_c">#cccccc</color>
+    <color name="color_c2">#c2c2c2</color>
+    <color name="color_e">#eeeeee</color>
+    <color name="color_ea">#eaeaea</color>
+    <color name="color_ec">#ececec</color>
+    <color name="color_ed">#ededed</color>
+    <color name="color_de">#dedede</color>
+    <color name="color_e8">#e8e8e8</color>
+    <color name="color_b7">#b7b7b7</color>
+    <color name="color_mian_label_txt">#848484</color>
+    <color name="bg_color_f3">#f3f3f3</color>
+
+
+    <color name="black">#000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="blue">#3F51B5</color>
+
+    <color name="main_snap_up_textcolor">#ff7920</color>
+    <color name="main_snap_up_pricecolor">#e21020</color>
+    <color name="main_bottom_text_not_select">#69707B</color>
+    <color name="main_bottom_text_select">#24A0FC</color>
+    <color name="home_search_tv_bg">#ccffffff</color>
+    <color name="main_search_edit_bg">#cce9e9e9</color>
+
+    <color name="main_city_pop_txt_select">#c9121e</color>
+
+    <drawable name="title_blue_normal">#0091FC</drawable>
+    <drawable name="title_blue_press">#24A0FC</drawable>
+
+    <color name="global_bg">#eeeff3</color>
+    <color name="line_color">#dadada</color>
+
+
+    <color name="search_confirm_press">#006ee5</color>
+    <color name="search_confirm">#007aff</color>
+
+    <color name="search_keyword_divider">#ededed</color>
+
+    <color name="search_select_condition_bg">#99000000</color>
+
+
+    <color name="login_submit_press">#b5101b</color>
+    <color name="shoppingcart_go_pressed">#b5101b</color>
+
+
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+
+    <color name="change_pwd_tips_bg">#F5D400</color>
+
+    <color name="mycoupon_not_vip_top_color">#5b9dfe</color>
+    <color name="mycoupon_view_details_color">#0054e1</color>
+    <color name="mycoupon_expired_bg">#f35f31</color>
+</resources>
